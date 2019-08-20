@@ -1,4 +1,10 @@
 <?php
+//le cuisinier dort !
+
+/*
+Ce n'est vraiment
+pas sérieux !
+ */
 
 sleep(10);
 

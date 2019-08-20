@@ -1,5 +1,5 @@
 <?php
-//ceci est une recette 
+//ceci est une recette
 //le cuisinier dort !
 
 /*

@@ -1,10 +1,3 @@
-<?php
-
-sleep(10);
-
-?>
-
-
 <!doctype html>
 <html>
 

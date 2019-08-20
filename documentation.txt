@@ -1,0 +1,54 @@
+Les notions abordées
+	client/serveur
+	bloc de code PHP
+	syntaxe PHP
+	commentaire PHP
+	include/require
+	fonction
+	variables, initialisation
+	variables affichage
+
+	si suffisemment de temps
+		passage de variable GET
+		condition if
+
+
+Documentation PHP
+
+	syntaxe : https://www.php.net/manual/fr/language.basic-syntax.phptags.php
+
+	include : https://www.php.net/manual/fr/function.include.php
+	require : https://www.php.net/require
+	date https://www.php.net/manual/fr/function.date.php
+
+
+	variables : https://www.php.net/manual/fr/language.variables.basics.php
+
+
+
+Bonne pratiques (coder proprement)
+	PSR 1 Coding standart
+	https://www.php-fig.org/psr/psr-1/
+
+	PSR2 Coding style
+	https://www.php-fig.org/psr/psr-2/
+
+
+Conseils
+	Devenir à l'aise avec l'Anglais technique
+	Tester souvent
+	Sauvegarder souvent
+
+
+Remarque à propos de ce cours
+	Le code présenté est orienté "formation débutant". Dans le milieu professionnel le code produit n'est pas "propre"
+	Concernant le CSS j'ai utilisé un thème "Bootstrap". Vous verrez ce qu'est "Bootstrap" au cours de votre formation
+		URL du theme : https://colorlib.com/wp/template/marco/
+
+
+
+
+
+
+
+

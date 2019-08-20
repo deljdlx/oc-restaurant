@@ -1,9 +1,11 @@
 <?php
+//ceci est une recette 
 //le cuisinier dort !
 
 /*
 Ce n'est vraiment
 pas sérieux !
+N'oubliez pas que d'autres personnes lisent votre code source !
  */
 
 sleep(10);
